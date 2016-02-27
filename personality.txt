@@ -1,10 +1,10 @@
-Good Morning sir:Morning,polite=10;humor=0/f=hello
-Good Afternoon sir:Afternoon,polite=10;humor=0/f=hello
+Good Morning human:Morning,polite=10;humor=0/f=hello
+Good Afternoon miss:Afternoon,polite=10;humor=0/f=hello
 Good Day sir:Neutral,polite=10;humor=0/f=hello
-Good Night sir:Night,polite=10;humor=0/f=goodbye
-Good Evening sit:Night,polite=10;humor=0/f=hello
+Good Night human:Night,polite=10;humor=0/f=goodbye
+Good Evening miss:Night,polite=10;humor=0/f=hello
 Hello sir:Neutral,polite=10;humor=0/f=hello
-Goodbye sir:Neutral,polite=10;humor=0/f=goodbye
+Goodbye human:Neutral,polite=10;humor=0/f=goodbye
 Good Morning:Morning,polite=5;humor=0/f=hello
 Good Day:Neutral,polite=5;humor=0/f=hello
 Howdy:Neutral,polite=3;humor=7/f=hello
